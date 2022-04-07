@@ -20,7 +20,7 @@ code {
     monospace;
 }
 
-@media (max-device-width: 812px) { 
+@media (max-width: 812px) { 
     html {
       background-color: #363a3f;
     }

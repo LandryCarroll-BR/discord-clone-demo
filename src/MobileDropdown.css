@@ -18,7 +18,7 @@
   align-items: center;
 }
 
-@media (min-device-width: 813px) { 
+@media (min-width: 813px) { 
     .mobileDropdown {
       display: none !important;
     }

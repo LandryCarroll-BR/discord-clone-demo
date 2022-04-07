@@ -59,7 +59,7 @@
   padding: 5px;
 }
 
-@media (max-device-width: 812px) { 
+@media (max-width: 812px) { 
     .chat {
       flex: 1;
     }

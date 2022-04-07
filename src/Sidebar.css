@@ -87,7 +87,7 @@
   color: white;
 }
 
-@media (max-device-width: 812px) { 
+@media (max-width: 812px) { 
     .sidebar {
       display: none;
     }

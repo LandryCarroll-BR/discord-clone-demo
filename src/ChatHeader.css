@@ -50,7 +50,7 @@
   border: none;
 }
 
-@media (max-device-width: 812px) { 
+@media (max-width: 812px) { 
     .chatHeader {
       background-color: #2F3135;
       display: block;
@@ -83,7 +83,7 @@
     }
 }
 
-@media (min-device-width: 813px) { 
+@media (min-width: 813px) { 
     .chatHeader__leftLogo {
       display: none;
     }
